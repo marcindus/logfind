@@ -1,3 +1,3 @@
 # logfind
 
-First project from "Learn C The Hard Way" by Zed A. Shaw
+First project from book "Learn C The Hard Way" by Zed A. Shaw
